@@ -1,5 +1,5 @@
 provider "github" {
-token = "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"
+token = "<Update GIT PAT TOKEN HERE>"
 }
 
 resource "github_repository" "terraform-repo" {
